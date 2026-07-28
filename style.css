@@ -3378,3 +3378,39 @@ font-size:15px;
 }
 
 }
+
+
+
+/*==========================
+FIELDWORK TITLE FIX
+==========================*/
+
+.fieldwork .section-title h2{
+
+color:#ffffff !important;
+
+font-size:48px !important;
+
+font-weight:700 !important;
+
+text-align:center;
+
+margin-bottom:20px;
+
+}
+
+.fieldwork .section-title p{
+
+color:#cbd5e1 !important;
+
+font-size:18px !important;
+
+line-height:1.8;
+
+max-width:900px;
+
+margin:auto;
+
+text-align:center;
+
+}
